@@ -1,7 +1,7 @@
 {
     "name": "expl0it3r/kirby-uniform-recaptcha",
     "description": "Kirby 3 reCAPTCHA guard for the Uniform plugin",
-    "type": "library",
+    "type": "kirby-plugin",
     "require": {
         "mzur/kirby-uniform": "^4.0"
     },
