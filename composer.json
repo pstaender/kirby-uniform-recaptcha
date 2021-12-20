@@ -3,7 +3,7 @@
     "description": "Kirby 3 reCAPTCHA guard for the Uniform plugin",
     "type": "library",
     "require": {
-        "mzur/kirby-uniform": "^4.0"
+        "mzur/kirby-uniform": ">=4.0 <6.0"
     },
     "license": "MIT",
     "authors": [{
